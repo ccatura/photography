@@ -20,10 +20,11 @@ body {
     justify-content: center;
     align-items: center;
     /* border: 2px solid green; */
-    height: 100px;
+    /* height: 100px; */
     width: 100%;
     color: #ddd;
     font-size: 4em;
+    text-align: center;
 }
 
 .photos-section {
@@ -78,3 +79,20 @@ body {
 
 
 
+@media screen and (max-width: 500px) {
+    .header {
+        font-size: 2em;
+    }
+
+    .photo {
+        width: 250px;
+        height: 250px;
+    }
+
+    .photos-section {
+        justify-content: center;
+        /* width: 90%; */
+        padding: .5em;
+        gap: 1em;
+    }
+}
