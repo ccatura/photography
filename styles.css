@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    font-family: 'Satisfy', cursive;
 }
 
 body {
@@ -25,6 +24,7 @@ body {
     color: #ddd;
     font-size: 4em;
     text-align: center;
+    font-family: 'Satisfy', cursive;
 }
 
 .photos-section {
