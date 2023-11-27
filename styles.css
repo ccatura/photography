@@ -27,6 +27,15 @@ body {
     font-family: 'Satisfy', cursive;
 }
 
+.sub-head {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+}
+
 .photos-section {
     display: flex;
     flex-flow: row wrap;
