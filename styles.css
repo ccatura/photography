@@ -68,6 +68,10 @@ a {
     box-shadow: 2px 2px 15px black;
 }
 
+.left {
+    background-position: left;
+}
+
 .desc {
     display: flex;
     justify-content: center;
