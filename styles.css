@@ -72,6 +72,10 @@ a {
     background-position: left;
 }
 
+.right {
+    background-position: right;
+}
+
 .desc {
     display: flex;
     justify-content: center;
